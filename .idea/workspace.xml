@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2cca8ac9-549c-4b74-a385-99f0b518bec5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Gr15-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gr15-master/Gr15.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gr15.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/newProject/entity/Entity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/newProject/entity/MonkeyDemon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/newProject/entity/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/newProject/findPath/PathFinderUsingBfs$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/newProject/findPath/PathFinderUsingBfs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/newProject/findPath/PathFinderUsingDfs$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/newProject/findPath/PathFinderUsingDfs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/newProject/playGame/Again.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/newProject/playGame/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/newProject/playGame/Description.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/newProject/playGame/Exit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/newProject/playGame/Interface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/newProject/playGame/LeverGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/newProject/playGame/WinGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/newProject/test2/AssetSetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/newProject/test2/Balanced.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/newProject/test2/CollisionChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/newProject/test2/GamePanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/newProject/test2/Hard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/newProject/test2/KeyHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/newProject/tile/Tile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/newProject/tile/TileManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/res/lmao/happyBirthdayEndGame.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/res/lmao/over.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/res/lmao/startGame.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/res/monster/down1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/res/monster/down2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/res/monster/left1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/res/monster/left2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/res/monster/right1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/res/monster/right2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/res/player/down1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/res/player/down2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/res/player/left1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/res/player/left2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/res/player/right1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/res/player/right2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/res/player/up1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/res/player/up2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/res/tile/1_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/res/tile/2_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/res/tile/3_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/res/tile/4_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/res/tile/5_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/res/tile/6_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr13/res/tile/6_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/newProject/entity/Entity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/newProject/entity/MonkeyDemon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/newProject/entity/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/newProject/findPath/PathFinderUsingAStar$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/newProject/findPath/PathFinderUsingAStar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/newProject/findPath/PathFinderUsingBfs$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/newProject/findPath/PathFinderUsingBfs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/newProject/playGame/Again.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/newProject/playGame/Description.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/newProject/playGame/Exit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/newProject/playGame/Interface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/newProject/playGame/LeverGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/newProject/playGame/Start.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/newProject/playGame/WinGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/newProject/test2/AssetSetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/newProject/test2/Balanced.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/newProject/test2/CollisionChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/newProject/test2/GamePanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/newProject/test2/Hard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/newProject/test2/KeyHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/newProject/tile/Tile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/newProject/tile/TileManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/res/lmao/happyBirthdayEndGame.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/res/lmao/over.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/res/lmao/startGame.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/res/monster/down1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/res/monster/down2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/res/monster/left1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/res/monster/left2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/res/monster/right1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/res/monster/right2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/res/player/down1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/res/player/down2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/res/player/left1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/res/player/left2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/res/player/right1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/res/player/right2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/res/player/up1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/res/player/up2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/res/tile/1_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/res/tile/2_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/res/tile/3_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/res/tile/4_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/res/tile/5_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/res/tile/6_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Gr15/res/tile/6_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newProject/entity/Entity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newProject/entity/MonkeyDemon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newProject/entity/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newProject/findPath/PathFinderUsingAStar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newProject/findPath/PathFinderUsingBfs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newProject/playGame/Again.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newProject/playGame/Description.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newProject/playGame/Exit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newProject/playGame/Interface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newProject/playGame/LeverGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newProject/playGame/Start.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newProject/playGame/WinGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newProject/test2/AssetSetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newProject/test2/Balanced.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newProject/test2/CollisionChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newProject/test2/GamePanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newProject/test2/Hard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newProject/test2/KeyHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newProject/tile/Tile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newProject/tile/TileManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/lmao/happyBirthdayEndGame.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/lmao/over.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/lmao/startGame.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/monster/down1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/monster/down2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/monster/left1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/monster/left2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/monster/right1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/monster/right2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/player/down1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/player/down2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/player/left1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/player/left2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/player/right1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/player/right2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/player/up1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/player/up2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/tile/1_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/tile/2_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/tile/3_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/tile/4_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/tile/5_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/tile/6_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/tile/6_2.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2xcvF1dW9G4dxycfyQjakQeACjW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Start.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/2_2024/DSA/Gr15-master"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newProject.playGame.Start" />
+      <module name="Gr15-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="newProject.playGame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cca8ac9-549c-4b74-a385-99f0b518bec5" name="Changes" comment="" />
+      <created>1748250069065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748250069065</updated>
+    </task>
+    <servers />
+  </component>
+</project>
